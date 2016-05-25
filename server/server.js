@@ -22,6 +22,7 @@ app.start = function() {
     });
 };
 
+/*
 var ds = loopback.createDataSource({
     connector: require('loopback-component-storage'),
     provider: 'filesystem',
@@ -29,6 +30,7 @@ var ds = loopback.createDataSource({
 });
 
 var container = ds.createModel('container');
+*/
 
 app.model(container);
 
