@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Capture Chat</title>
+    <script src="bower_components/webcomponentsjs/webcomponents.min.js"></script>
+    <link rel="import" href="bower_components/paper-icon-button/paper-icon-button.html">
+    <link rel="import" href="style.html">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="lib/minEmoji.css">
+    <meta name="theme-color" content="#075E54">
+</head>
+
+<body>
+    <div id="header" class="small">
+        <div id="status-bar"></div>
+        <span id="title" class="center">capture<span>chat</span></span>
+    </div>
+    <div id="chat">
+        <%  var lastDirection;
+            _.each(messages, function(msg) { %>
+            <div class="row <%- msg.direction %>">
+                <div class="message <%- msg.direction %> <%- lastDirection !== msg.direction ? 'before' : '' %>">
+                    <span class="text"><%= msg.text %></span>
+                    <span class="time"><%- msg.time %></span></div>
+            </div>
+            <% lastDirection = msg.direction;
+            }); %>
+    </div>
+    <script src="lib/minEmoji.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>

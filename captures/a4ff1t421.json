@@ -1,0 +1,331 @@
+[{
+    "direction": "out",
+    "type": "chat",
+    "datetime": "2016-05-09T15:38:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:38",
+    "timezoneOffset": -120,
+    "text": "Imagina"
+}, {
+    "direction": "out",
+    "type": "chat",
+    "datetime": "2016-05-09T15:38:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:38",
+    "timezoneOffset": -120,
+    "text": "Hay 10 personas"
+}, {
+    "direction": "out",
+    "type": "chat",
+    "datetime": "2016-05-09T15:39:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:39",
+    "timezoneOffset": -120,
+    "text": "5 usan wa y 5 tgram"
+}, {
+    "direction": "out",
+    "type": "chat",
+    "datetime": "2016-05-09T15:39:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:39",
+    "timezoneOffset": -120,
+    "text": "Las dos a\u00f1aden a un n\u00famero al grupo"
+}, {
+    "direction": "out",
+    "type": "chat",
+    "datetime": "2016-05-09T15:39:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:39",
+    "timezoneOffset": -120,
+    "text": "Y luego si alguien de telegram dice \"A\""
+}, {
+    "direction": "out",
+    "type": "chat",
+    "datetime": "2016-05-09T15:40:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:40",
+    "timezoneOffset": -120,
+    "text": "Ese n\u00famero pondr\u00eda en whatsapp un mensaje as\u00ed en el grupo:\n\nPepito +34 635 75 36 86:\n\nA"
+}, {
+    "direction": "in",
+    "type": "chat",
+    "datetime": "2016-05-09T15:41:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:41",
+    "timezoneOffset": -120,
+    "text": "Pero por ejemplo las funcionalidades espec\u00edficas de cada plataforma no aparecer\u00edan en la otra no?"
+}, {
+    "direction": "in",
+    "type": "chat",
+    "datetime": "2016-05-09T15:41:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:41",
+    "timezoneOffset": -120,
+    "text": "Los bots o stickers por ejemplo"
+}, {
+    "direction": "out",
+    "type": "chat",
+    "datetime": "2016-05-09T15:41:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:41",
+    "timezoneOffset": -120,
+    "text": "Si que se podr\u00eda hacer un apa\u00f1o"
+}, {
+    "direction": "out",
+    "type": "chat",
+    "datetime": "2016-05-09T15:41:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:41",
+    "timezoneOffset": -120,
+    "text": "Con links a <a href=\"https:\/\/captu.re\" title=\"https:\/\/captu.re\" rel=\"noopener noreferrer\" target=\"_blank\" class=\"selectable-text\">captu.re<\/a>"
+}, {
+    "direction": "out",
+    "type": "chat",
+    "datetime": "2016-05-09T15:41:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:41",
+    "timezoneOffset": -120,
+    "text": "Donde se puede ver todo"
+}, {
+    "direction": "out",
+    "type": "chat",
+    "datetime": "2016-05-09T15:42:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:42",
+    "timezoneOffset": -120,
+    "text": "Si env\u00edan un sticker y estas en telegram, quiz\u00e1s se puede enviar una imagen"
+}, {
+    "direction": "out",
+    "type": "chat",
+    "datetime": "2016-05-09T15:42:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:42",
+    "timezoneOffset": -120,
+    "text": "Tengo que investigar tambi\u00e9n si puedo hacer data sniffing"
+}, {
+    "direction": "out",
+    "type": "chat",
+    "datetime": "2016-05-09T15:42:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:42",
+    "timezoneOffset": -120,
+    "text": "Es decir, leer los paquetes que la aplicaci\u00f3n web recibe y env\u00eda"
+}, {
+    "direction": "out",
+    "type": "chat",
+    "datetime": "2016-05-09T15:43:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:43",
+    "timezoneOffset": -120,
+    "text": "Y aprender a interpretarlos y a enviar personalizadamente"
+}, {
+    "direction": "out",
+    "type": "chat",
+    "datetime": "2016-05-09T15:43:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:43",
+    "timezoneOffset": -120,
+    "text": "Eso ser\u00eda un pedazo de avance"
+}, {
+    "direction": "in",
+    "type": "chat",
+    "datetime": "2016-05-09T15:43:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:43",
+    "timezoneOffset": -120,
+    "text": "La verdad es que resolver\u00eda un gran problema"
+}, {
+    "direction": "in",
+    "type": "chat",
+    "datetime": "2016-05-09T15:44:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:44",
+    "timezoneOffset": -120,
+    "text": "Y por el tema del encriptado de los grupos de WhatsApp de ahora c\u00f3mo lo ves?"
+}, {
+    "direction": "out",
+    "type": "image",
+    "datetime": "2016-05-09T15:44:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:44",
+    "timezoneOffset": -120,
+    "loaded": true,
+    "url": "blob:https%3A\/\/web.whatsapp.com\/b8907e61-ff5b-4ad0-bd0e-8986724074b9",
+    "blob": ""
+}, {
+    "direction": "in",
+    "type": "chat",
+    "datetime": "2016-05-09T15:44:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:44",
+    "timezoneOffset": -120,
+    "text": "No habr\u00eda problema en que leyese el mensaje alguien no usuario de wa?"
+}, {
+    "direction": "out",
+    "type": "chat",
+    "datetime": "2016-05-09T15:44:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:44",
+    "timezoneOffset": -120,
+    "text": "Acabo de ponerme con esto"
+}, {
+    "direction": "out",
+    "type": "chat",
+    "datetime": "2016-05-09T15:44:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:44",
+    "timezoneOffset": -120,
+    "text": "Pues"
+}, {
+    "direction": "out",
+    "type": "chat",
+    "datetime": "2016-05-09T15:44:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:44",
+    "timezoneOffset": -120,
+    "text": "Eso ya depende del usuario"
+}, {
+    "direction": "out",
+    "type": "chat",
+    "datetime": "2016-05-09T15:44:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:44",
+    "timezoneOffset": -120,
+    "text": "Supongo que podemos ponerle privacidad y esas cosas"
+}, {
+    "direction": "out",
+    "type": "chat",
+    "datetime": "2016-05-09T15:44:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:44",
+    "timezoneOffset": -120,
+    "text": "As\u00ed tambi\u00e9n ayuda a que la gente se registre"
+}, {
+    "direction": "out",
+    "type": "chat",
+    "datetime": "2016-05-09T15:45:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:45",
+    "timezoneOffset": -120,
+    "text": "Para ver cosas ocultas"
+}, {
+    "direction": "in",
+    "type": "chat",
+    "datetime": "2016-05-09T15:45:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:45",
+    "timezoneOffset": -120,
+    "text": "Si, podemos ofrecer funciones b\u00e1sicas directamente y por ejemplo si quieren escuchar los audios que se registren en la web"
+}, {
+    "direction": "in",
+    "type": "chat",
+    "datetime": "2016-05-09T15:45:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:45",
+    "timezoneOffset": -120,
+    "text": "O algo as\u00ed"
+}, {
+    "direction": "out",
+    "type": "chat",
+    "datetime": "2016-05-09T15:46:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:46",
+    "timezoneOffset": -120,
+    "text": "Si \ud83d\udc81\ud83c\udffe\ud83d\ude45\ud83c\udffe\ud83d\ude45\ud83c\udffe\ud83d\ude45\ud83c\udffe\ud83d\ude45\ud83d\ude45"
+}, {
+    "direction": "in",
+    "type": "chat",
+    "datetime": "2016-05-09T15:46:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:46",
+    "timezoneOffset": -120,
+    "text": "Mmm voy a darle vueltas a un posible modelo de negocio"
+}, {
+    "direction": "out",
+    "type": "chat",
+    "datetime": "2016-05-09T15:46:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:46",
+    "timezoneOffset": -120,
+    "text": "De momento voy a ver si hago el MVP de <a href=\"https:\/\/captu.re\" title=\"https:\/\/captu.re\" rel=\"noopener noreferrer\" target=\"_blank\" class=\"selectable-text\">captu.re<\/a>"
+}, {
+    "direction": "in",
+    "type": "chat",
+    "datetime": "2016-05-09T15:46:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:46",
+    "timezoneOffset": -120,
+    "text": "Estoy leyendo que telegram est\u00e1 creciendo bastante en Espa\u00f1a"
+}, {
+    "direction": "out",
+    "type": "chat",
+    "datetime": "2016-05-09T15:46:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:46",
+    "timezoneOffset": -120,
+    "text": "Guay"
+}, {
+    "direction": "out",
+    "type": "chat",
+    "datetime": "2016-05-09T15:47:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:47",
+    "timezoneOffset": -120,
+    "text": "Habr\u00e1 que darle soporte tambi\u00e9n"
+}, {
+    "direction": "in",
+    "type": "chat",
+    "datetime": "2016-05-09T15:47:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:47",
+    "timezoneOffset": -120,
+    "text": "El p\u00fablico objetivo a priori ser\u00edan personas que usan telegram en Espa\u00f1a porque tendr\u00e1n el problema de tener que usar ambas apps"
+}, {
+    "direction": "in",
+    "type": "chat",
+    "datetime": "2016-05-09T15:47:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:47",
+    "timezoneOffset": -120,
+    "text": "Ya que en Espa\u00f1a todo el mundo usa WhatsApp"
+}, {
+    "direction": "out",
+    "type": "chat",
+    "datetime": "2016-05-09T15:47:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:47",
+    "timezoneOffset": -120,
+    "text": "Sip"
+}, {
+    "direction": "out",
+    "type": "chat",
+    "datetime": "2016-05-09T15:48:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:48",
+    "timezoneOffset": -120,
+    "text": "Co\u00f1o se me acaba de ocurrir una soluci\u00f3n a un problema t\u00e9cnico"
+}, {
+    "direction": "in",
+    "type": "chat",
+    "datetime": "2016-05-09T15:49:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "17:49",
+    "timezoneOffset": -120,
+    "text": "\ud83d\udcd5\ud83d\udcd9\ud83d\udcd4\ud83d\udcd7\ud83d\udcd8\ud83d\udee2\n   \ud83d\udcd5\ud83d\udcd9\ud83d\udc20\ud83d\udcd8\ud83d\udee2\n      \ud83d\udcd5\ud83d\udcd9\ud83d\udcd8\ud83d\udee2\n        \ud83d\udcd5\ud83c\udf08\ud83d\udee2\n           \ud83d\udcd5\ud83d\udee2\n              \ud83d\udc8e\n           \ud83d\udee2\ud83d\udcd5\n        \ud83d\udee2\ud83c\udf08\ud83d\udcd5\n      \ud83d\udee2\ud83d\udcd8\ud83d\udcd9\ud83d\udcd5\n   \ud83d\udee2\ud83d\udcd8\ud83d\udc20\ud83d\udcd9\ud83d\udcd5\n\ud83d\udee2\ud83d\udcd8\ud83d\udcd7\ud83d\udcd4\ud83d\udcd9\ud83d\udcd5\n\ud83d\udcd5\ud83d\udcd9\ud83d\udcd4\ud83d\udcd7\ud83d\udcd8\ud83d\udee2\n   \ud83d\udcd5\ud83d\udcd9\ud83d\udc20\ud83d\udcd8\ud83d\udee2\n      \ud83d\udcd5\ud83d\udcd9\ud83d\udcd8\ud83d\udee2\n        \ud83d\udcd5\ud83c\udf08\ud83d\udee2\n           \ud83d\udcd5\ud83d\udee2\n              \ud83d\udc8e\n           \ud83d\udee2\ud83d\udcd5\n        \ud83d\udee2\ud83c\udf08\ud83d\udcd5\n      \ud83d\udee2\ud83d\udcd8\ud83d\udcd9\ud83d\udcd5\n   \ud83d\udee2\ud83d\udcd8\ud83d\udc20\ud83d\udcd9\ud83d\udcd5\n\ud83d\udee2\ud83d\udcd8\ud83d\udcd7\ud83d\udcd4\ud83d\udcd9\ud83d\udcd5\n\ud83d\udcd5\ud83d\ude97\ud83d\udc44\ud83d\udc63\ud83d\udc8b\ud83c\udfee\n \ud83d\ude97\ud83d\udc44\ud83d\udc63\ud83d\udc8b\ud83c\udfee\ud83c\udf92\n  \ud83d\udc44\ud83d\udc63\ud83d\udc8b\ud83c\udfee\ud83c\udf92\ud83d\udcd5\n   \ud83d\udc63\ud83d\udc8b\ud83c\udfee\ud83c\udf92\ud83d\udcd5\ud83d\ude97\n\ud83d\udc9a  \ud83d\udc8b\ud83c\udfee\ud83c\udf92\ud83d\udcd5\ud83d\ude97\ud83d\udc44\n   \ud83d\udc63\ud83d\udc8b\ud83c\udfee\ud83c\udf92\ud83d\udcd5\ud83d\ude97\n  \ud83d\udc44\ud83d\udc63\ud83d\udc8b\ud83c\udfee\ud83c\udf92\ud83d\udcd5\n \ud83d\ude97\ud83d\udc44\ud83d\udc63\ud83d\udc8b\ud83c\udfee\ud83c\udf92\n\ud83d\udcd5\ud83d\ude97\ud83d\udc44\ud83d\udc63\ud83d\udc8b\ud83c\udfee\n\ud83d\udcd5\ud83d\udcd9\ud83d\udcd4\ud83d\udcd7\ud83d\udcd8\ud83d\udee2\n   \ud83d\udcd5\ud83d\udcd9\ud83d\udc20\ud83d\udcd8\ud83d\udee2\n      \ud83d\udcd5\ud83d\udcd9\ud83d\udcd8\ud83d\udee2\n        \ud83d\udcd5\ud83c\udf08\ud83d\udee2\n           \ud83d\udcd5\ud83d\udee2\n              \ud83d\udc8e\n           \ud83d\udee2\ud83d\udcd5\n        \ud83d\udee2\ud83c\udf08\ud83d\udcd5\n      \ud83d\udee2\ud83d\udcd8\ud83d\udcd9\ud83d\udcd5\n   \ud83d\udee2\ud83d\udcd8\ud83d\udc20\ud83d\udcd9\ud83d\udcd5\n\ud83d\udee2\ud83d\udcd8\ud83d\udcd7\ud83d\udcd4\ud83d\udcd9\ud83d\udcd5\n\ud83d\udcd5\ud83d\udcd9\ud83d\udcd4\ud83d\udcd7\ud83d\udcd8\ud83d\udee2\n   \ud83d\udcd5\ud83d\udcd9\ud83d\udc20\ud83d\udcd8\ud83d\udee2\n      \ud83d\udcd5\ud83d\udcd9\ud83d\udcd8\ud83d\udee2\n        \ud83d\udcd5\ud83c\udf08\ud83d\udee2\n           \ud83d\udcd5\ud83d\udee2\n              \ud83d\udc8e\n           \ud83d\udee2\ud83d\udcd5\n        \ud83d\udee2\ud83c\udf08\ud83d\udcd5\n      \ud83d\udee2\ud83d\udcd8\ud83d\udcd9\ud83d\udcd5\n   \ud83d\udee2\ud83d\udcd8\ud83d\udc20\ud83d\udcd9\ud83d\udcd5\n\ud83d\udee2\ud83d\udcd8\ud83d\udcd7\ud83d\udcd4\ud83d\udcd9\ud83d\udcd5"
+}, {
+    "direction": "out",
+    "type": "chat",
+    "datetime": "2016-05-09T20:19:00.000Z",
+    "date": "09\/05\/2016",
+    "time": "22:19",
+    "timezoneOffset": -120,
+    "text": "asdfasdf\ud83d\ude03asdfasdf\ud83d\ude03 asdfasdf\ud83d\ude03asdfasdf\ud83d\ude03asdf asdfasdf\ud83d\ude03asdfasdf\ud83d\ude03 asdfasdf\ud83d\ude03asdfasdf\ud83d\ude03asdf asdfasdf\ud83d\ude03asdfasdf\ud83d\ude03 asdfasdf\ud83d\ude03asdfasdf\ud83d\ude03asdf asdfasdf\ud83d\ude03asdfasdf\ud83d\ude03 asdfasdf\ud83d\ude03asdfasdf\ud83d\ude03asdf asdfasdf\ud83d\ude03asdfasdf\ud83d\ude03 asdfasdf\ud83d\ude03asdfasdf\ud83d\ude03asdf asdfasdf\ud83d\ude03asdfasdf\ud83d\ude03 asdfasdf\ud83d\ude03asdfasdf\ud83d\ude03asdf"
+}, {
+    "direction": "out",
+    "type": "chat",
+    "datetime": "2016-05-10T18:58:00.000Z",
+    "date": "10/05/2016",
+    "time": "20:58",
+    "timezoneOffset": -120,
+    "text": ".\n    💜⚛🍇       👾🔮💜\n💙🐬🐳🚘    💧🎽💎💙\n  💚🍏🔋📗 🐸♻🐢💚\n     💛🙃😺👑🍋🍺💛\n         🍊📳🦁🏀🌇🍊\n               ❤💋☎❤\n                     💖💖"
+}]
