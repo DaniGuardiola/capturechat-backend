@@ -6,6 +6,10 @@ var path = require('path');
 
 var app = module.exports = loopback();
 
+//request limit 1gb
+app.use(loopback.bodyParser.json({ limit: 524288000 }));
+app.use(loopback.bodyParser.urlencoded({ limit: 524288000, extended: true }));
+
 app.set('view engine', 'html');
 app.engine('html', cons.underscore);
 

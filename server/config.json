@@ -22,7 +22,6 @@
         "errorHandler": {
             "disableStackTrace": false
         }
-    }
-}
-"legacyExplorer": false
+    },
+    "legacyExplorer": false
 }
